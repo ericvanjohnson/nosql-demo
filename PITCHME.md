@@ -12,10 +12,7 @@ NoSQL databases are typically built with a couple goals in mind
 - Flexible schemas
 - Scalability / Replication 
 
- 
- ---
- 
- 
+---
  
  ## Traditional Relational Database Architecture
  
