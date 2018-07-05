@@ -4,6 +4,33 @@ Like SQL but Not
 
 ---
 
-# What is NoSql? 
+### What is NoSQL? 
 
-## The answer is not always clear
+
+NoSQL databases are typically built with a couple goals in mind
+
+- Flexible schemas
+- Scalability / Replication 
+ 
+ ---
+ 
+ ## Traditional Relational Database Architecture
+ 
+ ​```
+ 
+             -------------------
+             |       books     |
+             |                 |
+             |  *author_id*    |
+             |  *publisher_id* |
+             -------------------
+                       |
+             -------------------------
+             |                       |
+             |                       |
+        --------------         -----------------
+        |   authors  |         |   publishers  |
+        |            |         |               |
+        --------------         -----------------
+                
+ ​```
