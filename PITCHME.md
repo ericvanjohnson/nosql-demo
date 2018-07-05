@@ -16,6 +16,7 @@ NoSQL databases are typically built with a couple goals in mind
  
  ## Traditional Relational Database Architecture
  
+ 
  ​```
  
              -------------------
